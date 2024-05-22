@@ -1,1 +1,1 @@
-from dm_robotics.panda import environment
+from src.dm_robotics.panda import environment
